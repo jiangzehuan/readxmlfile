@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phone_books>
+  <phone id="1">
+    <name>Anker</name>
+    <gender>male</gender>
+    <birthday>02.09</birthday>
+    <school>schguangzhou</school>
+    <profession>elc</profession>
+  </phone>
+<phone id="2"><name>Bnker</name><gender>male</gender><birthday>01.07</birthday><school>schguangzhou</school><profession>elc</profession></phone><phone id="3"><name>Cnker</name><gender>male</gender><birthday>05.03</birthday><school>schguangzhou</school><profession>elc</profession></phone><phone id="4"><name>Dnker</name><gender>male</gender><birthday>07.23</birthday><school>schguangzhou</school><profession>elc</profession></phone><phone id="5"><name>Enker</name><gender>male</gender><birthday>09.01</birthday><school>schguangzhou</school><profession>elc</profession></phone><phone id="6"><name>Fnker</name><gender>male</gender><birthday>06.03</birthday><school>schguangzhou</school><profession>elc</profession></phone></phone_books>
